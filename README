@@ -1,0 +1,2 @@
+This small libraries find constant in rpm header and provide function to find
+value <=> constant name pair.

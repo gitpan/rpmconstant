@@ -1,0 +1,43 @@
+------------------------------------------------------------------------
+r33 | nanardon | 2005-10-04 06:04:45 +0200 (mar, 04 oct 2005) | 1 line
+Chemins modifiés :
+   A /release
+   A /release/rpmconstant
+   A /release/rpmconstant/0.1.0 (de /rpmconstant:32)
+   M /release/rpmconstant/0.1.0/ChangeLog
+   M /release/rpmconstant/0.1.0/configure.ac
+
+- add
+------------------------------------------------------------------------
+r29 | nanardon | 2005-10-04 04:29:56 +0200 (mar, 04 oct 2005) | 1 line
+Chemins modifiés :
+   M /rpmconstant/Makefile.am
+
+- ChangeLog from svn now
+------------------------------------------------------------------------
+r28 | nanardon | 2005-10-04 04:19:57 +0200 (mar, 04 oct 2005) | 1 line
+Chemins modifiés :
+   M /rpmconstant/configure.ac
+
+- fix email adress
+------------------------------------------------------------------------
+r1 | nanardon | 2005-07-07 12:14:03 +0200 (jeu, 07 jui 2005) | 2 lines
+Chemins modifiés :
+   A /rpmconstant
+   A /rpmconstant/AUTHORS
+   A /rpmconstant/COPYING
+   A /rpmconstant/ChangeLog
+   A /rpmconstant/INSTALL
+   A /rpmconstant/Makefile.am
+   A /rpmconstant/NEWS
+   A /rpmconstant/README
+   A /rpmconstant/configure.ac
+   A /rpmconstant/constant.c
+   A /rpmconstant/rpmconstant.c
+   A /rpmconstant/rpmconstant.h
+   A /rpmconstant/rpmconstant_internal.c
+   A /rpmconstant/rpmh2tbl
+
+- move from mandriva cvs
+
+------------------------------------------------------------------------

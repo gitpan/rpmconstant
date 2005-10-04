@@ -1,0 +1,7 @@
+# To build
+
+aclocal
+libtoolize --force
+autoconf
+automake --add-missing
+
